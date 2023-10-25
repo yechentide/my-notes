@@ -1,0 +1,10 @@
+{
+  "accentColor": "#78dcff",
+  "theme": "moonstone",
+  "cssTheme": "Maple",
+  "interfaceFontFamily": "MesloLGS NF,Menlo",
+  "textFontFamily": "MesloLGS NF,Menlo",
+  "monospaceFontFamily": "MesloLGS NF,Menlo",
+  "baseFontSize": 18,
+  "translucency": true
+}

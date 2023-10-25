@@ -1,0 +1,14 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "useTab": false,
+  "vimMode": true,
+  "autoConvertHtml": false
+}

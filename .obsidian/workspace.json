@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ac829d39c73d7a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b128842650e6d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51ad342bef600cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a2e5586ea7b0ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7849fd6f06274b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad92ac3dcdd65d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b784e9176f41f25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7766d9350f46d818",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e0ec6731a1621a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc738288737895b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de24be0898ab0576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "other/markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2cb2853ced9c112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "other/markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56ecec2f98a07e4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7593dd761dcaa90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "other/markdown.md"
+              }
+            }
+          },
+          {
+            "id": "da4fd4a28a1d93fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "51ad342bef600cd2",
+  "lastOpenFiles": [
+    "dev-web-vue/001_Vue2について.md",
+    "other/markdown.md",
+    "dev-web-vue/003_CompositionAPIとSFC.md",
+    "dev-web-vue/002_Vueプロジェクト.md",
+    "dev-web-vue/000_libraries&sites.md",
+    "z-archived/README-20220630.md",
+    "z-archived/c++/A_基本文法/k_分割コンパイル＆ビルド.md",
+    "z-archived/c++/A_基本文法/i_ファイル操作.md",
+    "z-archived/c++/A_基本文法/f_テンプレート.md",
+    "z-archived/c++/A_基本文法/e_参照.md",
+    "z-archived/c++/A_基本文法/c_制御構文.md",
+    "dev-web-vue/004_値の受け渡し.md",
+    "y-NW",
+    "dev-web-vue/005_イベントや制御構文.md",
+    "dev-web-vue/006_VueRouter.md"
+  ]
+}
