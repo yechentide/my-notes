@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b128842650e6d37",
+        "id": "b5413bd5dcff9dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "51ad342bef600cd2",
+            "id": "be1234bf141e7c2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/markdown.md",
-                "mode": "source",
+                "file": "other/DomainRegistrar.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "right": {
     "id": "e0ec6731a1621a6d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/markdown.md",
+                "file": "other/DomainRegistrar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/markdown.md",
+                "file": "other/DomainRegistrar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/markdown.md"
+                "file": "other/DomainRegistrar.md"
               }
             }
           },
@@ -135,12 +135,22 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "2cd919bb6ec0b892",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -158,22 +168,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51ad342bef600cd2",
+  "active": "be1234bf141e7c2f",
   "lastOpenFiles": [
-    "dev-web-vue/001_Vue2について.md",
+    "dev-server-springboot/010_役にたつサイト.md",
+    "dev-ios-swiftui/007_data-flow.md",
+    "other/macOSのネットワークインターフェース.md",
+    "other/macos-net-interface.png",
+    "other/Xcode.md",
+    "code-snippet/shell/script-path.md",
+    "code-snippet/shell/user-interaction/single-select.md",
+    "code-snippet/shell/user-interaction/multi-select.md",
+    "code-snippet/shell/user-interaction/confirm.md",
+    "code-snippet/shell/output/divider.md",
+    "code-snippet/shell/output/count-down.md",
+    "code-snippet/shell/output/color-print.md",
+    "other/DomainRegistrar.md",
+    "y-NW/002_符号化と伝送.md",
+    "y-NW/001_ネットワークの基礎知識.md",
+    "y-NW/課題/認証.md",
+    "y-NW/課題/ハッシュ関数.md",
+    "y-NW/課題/SSL&TLS.md",
+    "y-NW/課題/HTTPS.md",
+    "y-NW/課題/CORS.md",
+    "lang-swift/018_enumeration.md",
+    "basic-cs/gof-design-pattern/04_振る舞いに関するパターン.md",
+    "basic-cs/gof-design-pattern/02_生成に関するパターン.md",
+    "README.md",
     "other/markdown.md",
-    "dev-web-vue/003_CompositionAPIとSFC.md",
-    "dev-web-vue/002_Vueプロジェクト.md",
-    "dev-web-vue/000_libraries&sites.md",
-    "z-archived/README-20220630.md",
-    "z-archived/c++/A_基本文法/k_分割コンパイル＆ビルド.md",
-    "z-archived/c++/A_基本文法/i_ファイル操作.md",
-    "z-archived/c++/A_基本文法/f_テンプレート.md",
-    "z-archived/c++/A_基本文法/e_参照.md",
-    "z-archived/c++/A_基本文法/c_制御構文.md",
-    "dev-web-vue/004_値の受け渡し.md",
-    "y-NW",
-    "dev-web-vue/005_イベントや制御構文.md",
-    "dev-web-vue/006_VueRouter.md"
+    "other/git.md",
+    "lang-swift/019_プロトコル.md",
+    "y-NW/OIDC",
+    "dev-web-test",
+    "y-NW/課題",
+    "y-NW"
   ]
 }

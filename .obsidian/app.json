@@ -7,8 +7,15 @@
   "defaultViewMode": "preview",
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "useTab": false,
   "vimMode": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
