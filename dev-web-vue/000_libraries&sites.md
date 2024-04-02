@@ -1,0 +1,108 @@
+# libraries & sites
+
+## よく使われるライブラリ
+
+- Vue用
+    - ルーター: vue-router
+    - ストア: `Pinia` / Vuex
+- CSSまわり
+    - [tailwindcss](https://tailwindcss.com)
+    - [material-ui](https://github.com/mui/material-ui)
+    - [ant-design](https://github.com/ant-design/ant-design/)
+    - [chakra](https://github.com/chakra-ui/chakra-ui)
+    - [daisyUI](https://github.com/saadeghi/daisyui)
+    - [Water.css](https://watercss.kognise.dev)
+    - [Animate.css](https://animate.style)
+    - [pattern.css](https://bansal.io/pattern-css#installation)
+- HTTP通信
+    - axios
+    - json-server
+- SVG
+    - [VivusJS](https://github.com/maxwellito/vivus#vivusjs)
+    - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
+    - [svg.js](https://github.com/svgdotjs/svg.js)
+- WebGL
+    - [Anime.js](https://animejs.com)
+    - [PixiJS](https://pixijs.com/)
+    - [Three.js](https://github.com/mrdoob/three.js)
+        - React用ラッパーライブラリ: `react-three-fiber`と`drei`
+        - [Vanta.js](https://www.vantajs.com)
+    - [p5.js](https://github.com/processing/p5.js)
+    - [react-spring](https://github.com/pmndrs/react-spring)
+- スライドショー
+    - [Swiper.js](https://swiperjs.com)
+- チャート
+    - [D3](https://github.com/d3/d3)
+    - [Chart.js](https://www.chartjs.org/docs/latest/)
+- シンタックスハイライト
+    - [Prism.js](https://github.com/PrismJS/prism/)
+        - [prism-themes](https://github.com/PrismJS/prism-themes)
+    - [shiki.js](https://github.com/shikijs/shiki)
+    - [rainbow](https://craig.is/making/rainbows)
+- その他
+    - [Base Web](https://baseweb.design)
+
+## CSSツールWebサイト
+
+- 基本を学ぶ
+    - [CSS selectors cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
+    - [CSSレイアウトを学ぶ](https://ja.learnlayout.com)
+    - [Flexboxの仕組み](https://www.flexo.icu)
+    - [Flexbox Cheatsheet](https://jonibologna.com/blog/flexbox-cheatsheet)
+- アイコン素材
+    - [IconPark](https://iconpark.oceanengine.com/official)
+    - [500+ CSS Icons](https://css.gg)
+    - [flaticon](https://www.flaticon.com)
+    - [svgsilh](https://svgsilh.com/2196f3/)
+    - [icon-icons](https://icon-icons.com)
+    - [xicons](https://www.xicons.org/#/)
+    - [Material Design Icons](https://materialdesignicons.com)
+    - [icones](https://icones.js.org)
+    - [iconfont](https://www.iconfont.cn)
+    - [かぶりっこメーカー](https://www.iconpon.com/iconmaker/km/)
+- アイコンフォント
+    - [FontAwesome](https://fontawesome.com)
+    - [Google Material icons](https://fonts.google.com/icons?selected=Material+Icons)
+- アニメーション
+    - [Copy - Paste - Animo](https://cssanimo.netlify.app)
+    - [Animxyz](https://animxyz.com)
+    - [Animista](https://animista.net/play/basic/scale-down)
+    - [タイムライン付@keyframeアニメーションエディタ](https://keyframes.app/)
+    - [CSSスタイルコレクション](https://www.csswand.dev)
+    - [Loadingアニメーション](https://epic-spinners.epicmax.co)
+    - [Easing Functions Cheat Sheet](https://easings.net/en)
+- グラデーション
+    - [グラデーションカラーコレクション](https://hypercolor.dev/)
+    - [アニメーション付きCSSグラデーション](https://fuze.8bit.codes)
+    - [グラデーション配色](https://www.conic.style)
+    - [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
+    - [Linear gradients](https://larsenwork.com/easing-gradients/)
+- Shadow
+    - [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
+    - [Make a smooth shadow, friend.](https://shadows.brumm.af)
+- 配色
+    - [配色カラーパレットを自動生成](https://mycolor.space/)
+    - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
+- レイアウト
+    - [Popular layouts and patterns made with CSS](https://csslayout.io)
+    - [TailwindベースのHTML/CSSビルダーツール](https://mertjf.github.io/tailblocks/)
+    - [Gridレイアウト作成](https://grid.layoutit.com/)
+    - [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+    - [cheatsheet for CSS Grid Layout](http://grid.malven.co/)
+    - [1-Line Layouts](https://1linelayouts.glitch.me)
+- グラスモーフィズム
+    - [グラスモーフィズムCSSジェネレーター](https://hype4.academy/tools/glassmorphism-generator)
+    - [グラスモーフィズムCSSオンラインツール](http://santhoshsivan.com/glass.html)
+- ニューモーフィズム
+    - [ニューモーフィズムgenerator](https://neumorphism.io)
+    - [ニューモーフィズムgenerator](https://neumorphic.design)
+- 波シェイプ生成
+    - [Get Waves](https://getwaves.io)
+    - [Custom Shape Dividers](https://www.shapedivider.app)
+- その他
+    - [Css Separator Generator](https://wweb.dev/resources/css-separator-generator)
+    - [ナチュラルなSVGシェイプ作成](https://passionhacks.com/blob-maker/?n=1&e=6&gw=6&se=null&c=d1d8e0&o=0)
+    - [FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/)
+    - [CSS clip-path Editor](https://codepen.io/stoumann/full/abZxoOM)
+    - [オンラインツール集](https://omatsuri.app)
+    - [Screen Size Map](https://screensizemap.com)
